@@ -1,0 +1,1 @@
+acidentes ~ sentido_crescente + velocidade_Comercial + velocidade_Moto + velocidade_Passeio + velocidade_Ônibus + volume_Comercial + volume_Moto + volume_Passeio + volume_Ônibus + chuva + iluminacao + dia_da_semana_Final_de_Semana + tipo_faixa_Terceira_faixa + tipo_perfil_de_terreno_Perfil_Ondulado + tipo_perfil_de_terreno_Perfil_Plano

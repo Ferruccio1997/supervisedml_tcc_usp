@@ -1,0 +1,14 @@
+                           Logit Regression Results                           
+==============================================================================
+Dep. Variable:              acidentes   No. Observations:                 1350
+Model:                          Logit   Df Residuals:                     1349
+Method:                           MLE   Df Model:                            0
+Date:                Fri, 25 Oct 2024   Pseudo R-squ.:                   0.000
+Time:                        22:00:29   Log-Likelihood:                -935.75
+converged:                       True   LL-Null:                       -935.75
+Covariance Type:            nonrobust   LLR p-value:                       nan
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept           0      0.054          0      1.000      -0.107       0.107
+==============================================================================

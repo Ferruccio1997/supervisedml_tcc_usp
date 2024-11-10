@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/920161605524293304/dab162eb2c584f4994c583a6ee93c0cc/artifacts
+deleted_time: 1730212524906
+end_time: 1730212443704
+entry_point_name: ''
+experiment_id: '920161605524293304'
+lifecycle_stage: deleted
+run_id: dab162eb2c584f4994c583a6ee93c0cc
+run_name: Modelo Grid Search
+run_uuid: dab162eb2c584f4994c583a6ee93c0cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730212252460
+status: 4
+tags: []
+user_id: Ferruccio

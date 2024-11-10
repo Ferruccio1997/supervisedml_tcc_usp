@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/920161605524293304/f3cd0af091dc457cbe7d28303b48ae4b/artifacts
+deleted_time: 1730217710185
+end_time: 1730217705997
+entry_point_name: ''
+experiment_id: '920161605524293304'
+lifecycle_stage: deleted
+run_id: f3cd0af091dc457cbe7d28303b48ae4b
+run_name: Modelo 9
+run_uuid: f3cd0af091dc457cbe7d28303b48ae4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730217677710
+status: 3
+tags: []
+user_id: Ferruccio

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/920161605524293304/deae01dae20947e684f8e5588521bdcc/artifacts
+deleted_time: 1730217026619
+end_time: 1730215856850
+entry_point_name: ''
+experiment_id: '920161605524293304'
+lifecycle_stage: deleted
+run_id: deae01dae20947e684f8e5588521bdcc
+run_name: Modelo 9 Graficos Finais
+run_uuid: deae01dae20947e684f8e5588521bdcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730215854724
+status: 4
+tags: []
+user_id: Ferruccio

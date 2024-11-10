@@ -1,0 +1,24 @@
+digest: 96767c19
+name: dataset
+profile: '{"num_rows": 1350, "num_elements": 29700}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "Unnamed: 0", "required": true},
+  {"type": "double", "name": "km", "required": true}, {"type": "string", "name": "municipio",
+  "required": true}, {"type": "string", "name": "data", "required": true}, {"type":
+  "long", "name": "sentido_crescente", "required": true}, {"type": "string", "name":
+  "uf", "required": true}, {"type": "double", "name": "velocidade_Comercial", "required":
+  true}, {"type": "double", "name": "velocidade_Moto", "required": true}, {"type":
+  "double", "name": "velocidade_Passeio", "required": true}, {"type": "double", "name":
+  "velocidade_\u00d4nibus", "required": true}, {"type": "double", "name": "volume_Comercial",
+  "required": true}, {"type": "double", "name": "volume_Moto", "required": true},
+  {"type": "double", "name": "volume_Passeio", "required": true}, {"type": "double",
+  "name": "volume_\u00d4nibus", "required": true}, {"type": "long", "name": "acidentes",
+  "required": true}, {"type": "long", "name": "chuva", "required": true}, {"type":
+  "long", "name": "mes", "required": true}, {"type": "long", "name": "iluminacao",
+  "required": true}, {"type": "long", "name": "dia_da_semana_Final_de_Semana", "required":
+  true}, {"type": "long", "name": "tipo_faixa_Terceira_faixa", "required": true},
+  {"type": "long", "name": "tipo_perfil_de_terreno_Perfil_Ondulado", "required": true},
+  {"type": "long", "name": "tipo_perfil_de_terreno_Perfil_Plano", "required": true}]}'
+source: '{"tags": {"mlflow.user": "Ferruccio", "mlflow.source.name": "c:\\Users\\Ferruccio\\OneDrive\\\u00c1rea
+  de Trabalho\\workspace\\tcc\\.venv\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "0eb51702a26cd42ed106443ae70692c2bd092196"}}'
+source_type: code

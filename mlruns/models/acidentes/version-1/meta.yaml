@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1730236870813
+current_stage: None
+description: ''
+last_updated_timestamp: 1730236870813
+name: acidentes
+run_id: 40b9d65f8806489fbb1070f9caaaf05b
+run_link: ''
+source: mlflow-artifacts:/920161605524293304/40b9d65f8806489fbb1070f9caaaf05b/artifacts/modelo-9
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/920161605524293304/40b9d65f8806489fbb1070f9caaaf05b/artifacts/modelo-9
+user_id: null
+version: 1

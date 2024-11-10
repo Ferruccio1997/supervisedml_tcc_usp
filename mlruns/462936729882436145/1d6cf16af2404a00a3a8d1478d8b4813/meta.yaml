@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/462936729882436145/1d6cf16af2404a00a3a8d1478d8b4813/artifacts
+end_time: 1730151359308
+entry_point_name: ''
+experiment_id: '462936729882436145'
+lifecycle_stage: active
+run_id: 1d6cf16af2404a00a3a8d1478d8b4813
+run_name: Modelo sem Stepwise
+run_uuid: 1d6cf16af2404a00a3a8d1478d8b4813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730151350976
+status: 3
+tags: []
+user_id: Ferruccio
