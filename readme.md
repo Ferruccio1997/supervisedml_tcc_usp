@@ -451,7 +451,7 @@ Thank you for your interest in enhancing this project!
 
 If you have any questions, feedback, or suggestions, feel free to reach out!
 
-- **Project Maintainer**: Ferruccio Ribeiro
+- **Project Maintainer**: Ferruccio Leal Ribeiro
 - **Email**: [ferruccioribeiro@outlook.com](mailto:ferruccioribeiro@outlook.com)
 - **LinkedIn**: [Ferruccio Leal Ribeiro](https://www.linkedin.com/in/ribeiroferruccio)
 - **GitHub Issues**: For reporting bugs or suggesting features, please create an issue in this repository.
